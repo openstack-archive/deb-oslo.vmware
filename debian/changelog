@@ -1,7 +1,12 @@
 python-oslo.vmware (2.11.0-1) UNRELEASED; urgency=medium
 
+  [ David Della Vecchia ]
   * New upstream release.
   * d/control: Align (build-)depends with upstream.
+
+  [ Ondřej Nový ]
+  * d/s/options: extend-diff-ignore of .gitreview
+  * d/control: Using OpenStack's Gerrit as VCS URLs.
 
  -- David Della Vecchia <ddv@canonical.com>  Tue, 02 Aug 2016 11:25:41 -0400
 
