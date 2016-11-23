@@ -7,6 +7,7 @@ python-oslo.vmware (2.11.0-1) UNRELEASED; urgency=medium
   [ Ondřej Nový ]
   * d/s/options: extend-diff-ignore of .gitreview
   * d/control: Using OpenStack's Gerrit as VCS URLs.
+  * Bumped debhelper compat version to 10
 
  -- David Della Vecchia <ddv@canonical.com>  Tue, 02 Aug 2016 11:25:41 -0400
 
